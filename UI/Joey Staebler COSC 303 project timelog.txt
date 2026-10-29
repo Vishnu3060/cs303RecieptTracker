@@ -1,0 +1,23 @@
+Joey Staebler's Time log for COSC 303 Reciept Tracker (*AI means AI was used at that time line)
+ 
+ 
+8/18 
+1:26-1:53 (27 minutes) basic idea of pyqt6 and installation of qt designer and pyqt6
+9:06-10:20 (1 hour 14 min or 74 min) Learned the basics of qt designer and how to import qt designer into python and line edit field basics (no echo, text, password, echo on edit then password)
+total time on 8/18 spent 101 min
+8/19
+1:43-2:23 (40 min) review python and python classes
+
+8/20
+1:20-2:11 (50 min) (*AI Gemini to begin brainstorming possible UI elements and windows and understanding and outlining what UI rules to learn before beginning) Brainstorming and from scratch make a bare basic UI with AI advice on what UI elements should be possible but UI placement and starter designs are made on my own.
+
+8/22
+4:30pm-5:05pm + 6:48pm-7:26pm ( minutes) Finalize phototype UI and make it executable in Python with pyqt6
+
+total time from 8/18-8/22 264 min (4.4 hours)
+...
+8/23-8/27 used to complete Dijkstras algoritm project 4, exam study time
+...
+
+8/28
+1:30-1:50 + 7:00-7:50 Researched and tested running c++ executables from Python using subprocess and QMessageBox

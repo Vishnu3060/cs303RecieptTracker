@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>658</width>
+    <width>959</width>
     <height>570</height>
    </rect>
   </property>
@@ -18,23 +18,30 @@
     <rect>
      <x>10</x>
      <y>10</y>
-     <width>631</width>
+     <width>931</width>
      <height>391</height>
     </rect>
    </property>
+   <property name="minimumSize">
+    <size>
+     <width>50</width>
+     <height>50</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>961</width>
+     <height>16777215</height>
+    </size>
+   </property>
+   <column>
+    <property name="text">
+     <string>ID</string>
+    </property>
+   </column>
    <column>
     <property name="text">
      <string>Item</string>
-    </property>
-   </column>
-   <column>
-    <property name="text">
-     <string>Catagory</string>
-    </property>
-   </column>
-   <column>
-    <property name="text">
-     <string>Quanity</string>
     </property>
    </column>
    <column>
@@ -44,12 +51,22 @@
    </column>
    <column>
     <property name="text">
-     <string>Worst Price</string>
+     <string>Quanity</string>
     </property>
    </column>
    <column>
     <property name="text">
-     <string/>
+     <string>Catagory</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Varient</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Organic</string>
     </property>
    </column>
   </widget>

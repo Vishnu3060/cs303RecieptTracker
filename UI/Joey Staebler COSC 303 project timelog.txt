@@ -1,4 +1,4 @@
-Joey Staebler's Time log for COSC 303 Reciept Tracker (*AI means AI was used at that time line)
+Joey Staebler's Time log for COSC 303 Reciept Tracker (disclaimer: AI was used for fundamental learning purposes and some debugging cases)
  
  
 8/18 
@@ -14,10 +14,32 @@ total time on 8/18 spent 101 min
 8/22
 4:30pm-5:05pm + 6:48pm-7:26pm ( minutes) Finalize phototype UI and make it executable in Python with pyqt6
 
-total time from 8/18-8/22 264 min (4.4 hours)
+--------------------- 8/18-8/22 264 min (4.4 hours) (COSC 303 Project report 1)--------------
 ...
 8/23-8/27 used to complete Dijkstras algoritm project 4, exam study time
 ...
-
+----------------------------------------------------------------------------------------------
 8/28
 1:30-1:50 + 7:00-7:50 Researched and tested running c++ executables from Python using subprocess and QMessageBox
+
+11/5
+7:00pm-7:20 reviewing basics of subprocess library in python
+
+11/9 
+9:50-11:15 learn linking SQLlite databases to python UI and implement a test sqlite database, BYODS ideas and slide prep
+7:00-8:30 BYODS meetup conversation on Discord and pre-planning for rest of project
+
+
+11/15 5:42-5:49 Install db browser
+      7:45-8:48 Learn the basics of SQL and using the DB browser
+
+11/16 10:20-11:10 BYODS prep, SQL database layout plans
+
+11/17 9:30-10:30 SQL database final layout proposal relational diagram and creation using the DB browser for SQLlite
+
+11/18 4:45-6:30 loading items from SQL database template to the items window in the UI
+
+--------------- 8/28-11/18 time logged 9 hr 10 min COSC 303 Project Report 2 --------------------
+Summary from this point between 8/28-11/18: Learned fundamentals of SQLlite, setup and learn how to use the DB browser, designed the database layout and drew relation, used the database template to make tables work and connect the new SQLlite database to the pyqt6 UI.
+
+-------------------------------------------------------------------------------------------------
